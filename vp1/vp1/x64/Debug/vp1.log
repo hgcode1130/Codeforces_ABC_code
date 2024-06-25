@@ -1,0 +1,4 @@
+﻿  F.cpp
+D:\c code\c-code\vp1\vp1\F.cpp(7,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c code\c-code\vp1\vp1\F.cpp(7,34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  vp1.vcxproj -> D:\c code\c-code\vp1\x64\Debug\vp1.exe

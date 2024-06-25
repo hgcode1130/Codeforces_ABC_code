@@ -1,0 +1,5 @@
+﻿  A.cpp
+D:\c code\c-code\951div2\951div2\A.cpp(9,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  B.cpp
+  正在生成代码...
+  951div2.vcxproj -> D:\c code\c-code\951div2\x64\Debug\951div2.exe

@@ -1,0 +1,4 @@
+﻿  G.cpp
+D:\c code\c-code\roune 946\roune 946\G.cpp(5,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\queue(416,1): error C2207: “std::priority_queue<_Ty,_Container,_Pr>::comp”: 类模板的成员无法获取函数类型
+D:\c code\c-code\roune 946\roune 946\G.cpp(36,51): message : 查看对正在编译的 类 模板 实例化“std::priority_queue<int,std::vector<int,std::allocator<int>>,std::greater<int> (void)>”的引用
