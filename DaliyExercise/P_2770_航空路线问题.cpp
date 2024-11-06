@@ -96,7 +96,6 @@ signed mian()
     for(int i = 1 ; i <= m ; i ++)
     {
         cin >> u >> v;
-        
     }
 
     return 0;
