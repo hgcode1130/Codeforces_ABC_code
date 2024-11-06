@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeRepos\\tarjan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|D:\\CodeRepos\\tarjan\\tarjan\\Ge_bridge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|solutionrelative:tarjan\\Ge_bridge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|D:\\CodeRepos\\tarjan\\tarjan\\vDCC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|solutionrelative:tarjan\\vDCC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|D:\\CodeRepos\\tarjan\\tarjan\\SCC_Instance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|solutionrelative:tarjan\\SCC_Instance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|D:\\CodeRepos\\tarjan\\tarjan\\SCC_tarjan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|solutionrelative:tarjan\\SCC_tarjan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|D:\\CodeRepos\\tarjan\\tarjan\\eDCC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DD7035-880D-4E6B-9A02-68811F26DA6D}|tarjan\\tarjan.vcxproj|solutionrelative:tarjan\\eDCC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "eDCC.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\tarjan\\tarjan\\eDCC.cpp",
+              "RelativeDocumentMoniker": "tarjan\\eDCC.cpp",
+              "ToolTip": "D:\\CodeRepos\\tarjan\\tarjan\\eDCC.cpp",
+              "RelativeToolTip": "tarjan\\eDCC.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-02T13:48:33.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ge_bridge.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\tarjan\\tarjan\\Ge_bridge.cpp",
+              "RelativeDocumentMoniker": "tarjan\\Ge_bridge.cpp",
+              "ToolTip": "D:\\CodeRepos\\tarjan\\tarjan\\Ge_bridge.cpp",
+              "RelativeToolTip": "tarjan\\Ge_bridge.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T02:37:52.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vDCC.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\tarjan\\tarjan\\vDCC.cpp",
+              "RelativeDocumentMoniker": "tarjan\\vDCC.cpp",
+              "ToolTip": "D:\\CodeRepos\\tarjan\\tarjan\\vDCC.cpp",
+              "RelativeToolTip": "tarjan\\vDCC.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T01:40:53.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SCC_Instance.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\tarjan\\tarjan\\SCC_Instance.cpp",
+              "RelativeDocumentMoniker": "tarjan\\SCC_Instance.cpp",
+              "ToolTip": "D:\\CodeRepos\\tarjan\\tarjan\\SCC_Instance.cpp",
+              "RelativeToolTip": "tarjan\\SCC_Instance.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T11:38:42.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SCC_tarjan.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\tarjan\\tarjan\\SCC_tarjan.cpp",
+              "RelativeDocumentMoniker": "tarjan\\SCC_tarjan.cpp",
+              "ToolTip": "D:\\CodeRepos\\tarjan\\tarjan\\SCC_tarjan.cpp",
+              "RelativeToolTip": "tarjan\\SCC_tarjan.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T11:28:49.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

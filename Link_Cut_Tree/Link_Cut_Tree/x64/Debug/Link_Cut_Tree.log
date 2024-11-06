@@ -1,0 +1,15 @@
+﻿  P2590.cpp
+C:\Users\20582\source\repos\Link_Cut_Tree\Link_Cut_Tree\P2590.cpp(308,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20582\source\repos\Link_Cut_Tree\Link_Cut_Tree\P2590.cpp(330,22): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\20582\source\repos\Link_Cut_Tree\Link_Cut_Tree\P2590.cpp(367,48): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244: “初始化”: 从“__int64”转换到“_Ty1”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244: “初始化”: 从“__int64”转换到“_Ty2”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(247,54): warning C4244:         ]
+  Link_Cut_Tree.vcxproj -> C:\Users\20582\source\repos\Link_Cut_Tree\x64\Debug\Link_Cut_Tree.exe

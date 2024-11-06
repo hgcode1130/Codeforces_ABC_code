@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeRepos\\icpc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E541EEB-EE36-4E94-9509-12AADFFAF889}|icpc\\icpc.vcxproj|D:\\CodeRepos\\icpc\\icpc\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E541EEB-EE36-4E94-9509-12AADFFAF889}|icpc\\icpc.vcxproj|solutionrelative:icpc\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E541EEB-EE36-4E94-9509-12AADFFAF889}|icpc\\icpc.vcxproj|D:\\CodeRepos\\icpc\\icpc\\a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E541EEB-EE36-4E94-9509-12AADFFAF889}|icpc\\icpc.vcxproj|solutionrelative:icpc\\a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E541EEB-EE36-4E94-9509-12AADFFAF889}|icpc\\icpc.vcxproj|D:\\CodeRepos\\icpc\\icpc\\13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E541EEB-EE36-4E94-9509-12AADFFAF889}|icpc\\icpc.vcxproj|solutionrelative:icpc\\13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E541EEB-EE36-4E94-9509-12AADFFAF889}|icpc\\icpc.vcxproj|D:\\CodeRepos\\icpc\\icpc\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E541EEB-EE36-4E94-9509-12AADFFAF889}|icpc\\icpc.vcxproj|solutionrelative:icpc\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "6.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\icpc\\icpc\\6.cpp",
+              "RelativeDocumentMoniker": "icpc\\6.cpp",
+              "ToolTip": "D:\\CodeRepos\\icpc\\icpc\\6.cpp",
+              "RelativeToolTip": "icpc\\6.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowEQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T06:38:28.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\icpc\\icpc\\FileName.cpp",
+              "RelativeDocumentMoniker": "icpc\\FileName.cpp",
+              "ToolTip": "D:\\CodeRepos\\icpc\\icpc\\FileName.cpp",
+              "RelativeToolTip": "icpc\\FileName.cpp",
+              "ViewState": "AQIAADgBAAAAAAAAAAAgwEEBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T06:06:19.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "13.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\icpc\\icpc\\13.cpp",
+              "RelativeDocumentMoniker": "icpc\\13.cpp",
+              "ToolTip": "D:\\CodeRepos\\icpc\\icpc\\13.cpp",
+              "RelativeToolTip": "icpc\\13.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T05:12:19.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "a.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\icpc\\icpc\\a.cpp",
+              "RelativeDocumentMoniker": "icpc\\a.cpp",
+              "ToolTip": "D:\\CodeRepos\\icpc\\icpc\\a.cpp",
+              "RelativeToolTip": "icpc\\a.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T05:02:53.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

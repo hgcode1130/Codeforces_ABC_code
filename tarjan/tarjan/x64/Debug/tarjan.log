@@ -1,0 +1,13 @@
+﻿  Ge_bridge.cpp
+  vDCC.cpp
+  eDCC.cpp
+  正在生成代码...
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(6,17): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(44,5): error C2059: 语法错误:“}”
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(49,1): error C2059: 语法错误:“}”
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(40,55): error C2059: 语法错误:“)”
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(41,9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(44,5): error C2059: 语法错误:“]”
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(46,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(51,5): error C2601: “main”: 本地函数定义是非法的
+C:\Users\20582\source\repos\tarjan\tarjan\vDCC.cpp(69,1): error C1004: 发现意外的文件尾
