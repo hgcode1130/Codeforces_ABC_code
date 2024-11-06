@@ -1,4 +1,5 @@
 #include<bit/stdc++.h>
+#define int long long
 using namespace  std;
 const int N = 1e4 + 10, V = 3e6 + 10;
 template<typename T>
@@ -77,6 +78,7 @@ struct GraphFlow
 };
 GraphFlow<int>g;
 map<string,int> mp;
+map<int,string>mp2;
 signed mian()
 {
     int n , m ;
@@ -88,7 +90,9 @@ signed mian()
     {
         cin >> u;
         mp[u] = i;
+		mp[i] = u;
     }
+	g.add(s , 1 , 1) , g.add(2 * n , t , 1);
     for(int i = 1 ; i <= m ; i ++)
     {
         cin >> u >> v;

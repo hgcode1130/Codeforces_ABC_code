@@ -1,9 +1,0 @@
-﻿  baoli.cpp
-  data.cpp
-  DuiPaiQi.cpp
-  std.cpp
-  正在生成代码...
-data.obj : error LNK2005: main 已经在 baoli.obj 中定义
-DuiPaiQi.obj : error LNK2005: main 已经在 baoli.obj 中定义
-std.obj : error LNK2005: main 已经在 baoli.obj 中定义
-D:\CodeRepos\duipai\x64\Debug\duipai.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
