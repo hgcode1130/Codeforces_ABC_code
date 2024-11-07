@@ -8,7 +8,12 @@ int stk[MAXN],top;
 int n;
 ll ans1,ans2;
 
+/*
+单调栈图片便于理解
+https://cdn.luogu.com.cn/upload/pic/56750.png
+*/
 int main(){
+	ios::sync_with_stdiO(0),cin.tie(0);
 	cin>>n;
 	for(int i=1;i<=n;i++){
 		for(int j=1;j<=n;j++){
@@ -59,7 +64,6 @@ int main(){
 			}
 		}
 	}
-	cout<<ans2<<endl;
-		
+	cout<<ans2<<endl;	
 	return 0;
 }
