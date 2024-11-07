@@ -9,7 +9,7 @@ int n;
 ll ans1,ans2;
 
 /*
-����ջͼƬ��������
+单调栈图片便于理解
 https://cdn.luogu.com.cn/upload/pic/56750.png
 */
 int main(){
@@ -33,7 +33,7 @@ int main(){
 				ans+=s[i][j];
 				while(top&&s[i][stk[top]]>=s[i][j]){
 					ans-=(stk[top]-stk[top-1])*(s[i][stk[top]]-s[i][j]);
-					//ջ�����ڵڶ����Ԫ�صľ����ջ����j������Ϊ��ͼ��j=3ʱ��ɫ�ߵ��ϰ벿��
+					//栈顶对于第二大的元素的距离×栈顶与j的落差，即为上图中j=3时灰色线的上半部分
 					top--;
 				}
 				ans1+=ans<<k;
