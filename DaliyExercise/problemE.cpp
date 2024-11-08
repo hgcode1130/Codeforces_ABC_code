@@ -69,7 +69,6 @@ void solve() {
 			gd1=__gcd(gd1,abs(a[j]-pre1));
 			int sum1=__gcd(pre,gd1);
 			int sum2=__gcd(a[i]+k,suf[j+1]);
-		//	cout<<"i="<<i<<' '<<gd1<<'\n';
 			ans=max(ans,__gcd(sum1,sum2));
 			pre1=a[j];
 		}
